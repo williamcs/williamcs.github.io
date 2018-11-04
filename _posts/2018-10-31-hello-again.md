@@ -1,5 +1,5 @@
 ---
-title: "Hello Test: welcome"
+title: "Hello again and welcome to my new blog"
 date: 2018-10-31
 tags: [machine learning, data science, neural network]
 header:
@@ -7,6 +7,8 @@ header:
 excerpt: "Machine Learning, Perceptron, Data Science"
 mathjax: "true"
 ---
+
+This is just a hello test post to get started for a new journey.
 
 # H1 Heading
 
