@@ -6,10 +6,11 @@ excerpt: "java, algorithm"
 ---
 
 The below program is written in a few years ago, it costed me some effort to use
-the backtracking search algorithm to solve the sodoku problem. to use one
-dimensional array for storing the board data has some tricks. An usual way is
-use two dimensional array to store the board data, the program is worth to remember,
-and the days I struggled to solve this problem are good memory to recall.
+backtracking algorithm to solve the sodoku problem with one dimensional array
+to store the board data. It really has some tricks. Instead one dimensional array,
+an usual way is use two dimensional array to store the board data. The program is
+worth to remember and the days I struggled to solve this problem are good memory
+to recall.
 
 Have fun and have that memory to cherish.
 
