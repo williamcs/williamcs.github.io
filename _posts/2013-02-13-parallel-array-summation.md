@@ -380,3 +380,8 @@ public class ThreadSum {
 
 
 ```
+
+Conclusion:  
+The serial array summation is much faster than threaded array summation with small array numbers. When the array number is much bigger,
+
+The cost time is get closer and closer.
