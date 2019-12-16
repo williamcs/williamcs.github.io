@@ -1,6 +1,6 @@
 ---
 title: "Data type convertion in java with reflection"
-date: 2018-12-16
+date: 2019-12-16
 tags: [java]
 excerpt: "java"
 ---
@@ -10,8 +10,8 @@ and setter method. It has some limitation, for example, at the first time, you c
 to TypeTwo. After some time, you want to convert TypeOne to TypeThree, you must reimplement TypeOne
 to TypeThree's method again, this seems not a very good idea. If the TypeOne to other data type can
 be configured, that will be a better idea. With java's relection method, we can do this. The two data
-type's relationship is defined in a map data structure. It can be easy implemented in config file, or
-store the relations in db.
+type's relationship is defined in a map data structure. It can be easily implemented in config file, or
+store the relations in a db.
 
 Java implementation:
 
